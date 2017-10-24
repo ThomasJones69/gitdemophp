@@ -1,1 +1,7 @@
 Dit is de tekst waarmee ik start.
+
+Tweede tekst regel
+
+Derde tekst
+
+Vierde regel
